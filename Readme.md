@@ -1,6 +1,6 @@
 # Loteria dos Sonhos Scraper Plugin
 
-A custom WordPress plugin for scraping and displaying results from the Brazilian lottery site "Loteria dos Sonhos". Includes advanced features, multiple shortcodes, and caching for optimal performance.
+A custom WordPress plugin for scraping and displaying results from the Brazilian lottery site **Loteria dos Sonhos**. Includes advanced features, multiple shortcodes, and caching for optimal performance.
 
 ---
 
@@ -19,16 +19,16 @@ A custom WordPress plugin for scraping and displaying results from the Brazilian
 
 ## 🧩 Available Shortcodes
 
-| Shortcode                              | Description                                 |
-|-----------------------------------------|---------------------------------------------|
-| `[loteria_dos_sonhos_home]`             | Scrapes and displays the main homepage      |
-| `[loteria_dos_sonhos_results]`          | Scrapes and displays the results page       |
-| `[loteria_dos_sonhos_live]`             | Scrapes and displays live results           |
-| `[loteria_dos_sonhos_yesterday]`        | Scrapes and displays yesterday's results    |
-| `[loteria_dos_sonhos_home_cached]`      | Cached version of the homepage              |
-| `[loteria_dos_sonhos_results_cached]`   | Cached version of the results page          |
-| `[loteria_dos_sonhos_palpite]`          | Scrapes the Palpite LDS page                |
-| `[loteria_dos_sonhos_palpite_cached]`   | Cached version of the Palpite page          |
+| Shortcode                            | Description                              |
+|---------------------------------------|------------------------------------------|
+| `[loteria_dos_sonhos_home]`           | Scrapes and displays the main homepage   |
+| `[loteria_dos_sonhos_results]`        | Scrapes and displays the results page    |
+| `[loteria_dos_sonhos_live]`           | Scrapes and displays live results        |
+| `[loteria_dos_sonhos_yesterday]`      | Scrapes and displays yesterday's results |
+| `[loteria_dos_sonhos_home_cached]`    | Cached version of the homepage           |
+| `[loteria_dos_sonhos_results_cached]` | Cached version of the results page       |
+| `[loteria_dos_sonhos_palpite]`        | Scrapes the Palpite LDS page             |
+| `[loteria_dos_sonhos_palpite_cached]` | Cached version of the Palpite page       |
 
 ---
 
@@ -75,4 +75,4 @@ A custom WordPress plugin for scraping and displaying results from the Brazilian
 
 ---
 
-Enjoy fast, reliable, and well-formatted lottery results on your WordPress site!#
+Enjoy fast, reliable, and well-formatted lottery results on your WordPress site!
